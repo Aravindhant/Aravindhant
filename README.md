@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aravindhant
+- 👋 Hi, I’m @Aravindhan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on projects related to Data science(beginner)
